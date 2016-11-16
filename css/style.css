@@ -1,0 +1,127 @@
+---
+---
+
+#intro {
+  background-image: url('{{site.baseurl}}/images/header-bcg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  color: white;
+  font-size: 5em;
+}
+
+h1 span {
+  background-color: #FE5455;
+  padding: 10px 35px 15px 35px;
+}
+
+span {
+  background-color: white;
+}
+
+h2 {
+  font-family: 'Open Sans';
+  font-weight:300;
+  font-size: 3.2em;
+}
+
+h3 {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  color: white;
+}
+
+p {
+  font-family: 'Open Sans';
+  color: white;
+  font-weight: 400;
+  font-size: 1.2em;
+}
+
+.col-lg-12 {
+  margin-bottom: 35px;
+}
+
+.btn {
+  border-radius: 0px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  color: #FE5455;
+  background-color: transparent;
+  border: 1px solid #FE5455;
+  margin-right: 15px;
+}
+
+.btn-github,
+.bnt-send {
+  border-radius: 0px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  color: white;
+  background-color: #FE5455;
+  border: 1px solid #FE5455;
+
+}
+
+#intro .container {
+  padding: 150px 50px 150px 50px;
+}
+
+#about {
+  background-color: #FE5455;
+}
+
+#about .container,
+#notify .container,
+#screens .container {
+  padding: 100px 50px 100px 50px;
+}
+
+#about h2 {
+  color: white;
+}
+
+.features-row {
+  margin-top: 30px;
+}
+
+.features {
+  padding: 15px;
+}
+
+#screens {
+  background-color: #fcfcfc;
+}
+
+
+.form-control {
+  border: 1px solid #757575;;
+  font-family: "Open Sans";
+  font-weight: 300;
+  border-radius: 0px;
+}
+
+footer {
+  background-color: #fcfcfc;
+  padding: 30px 0px 0px 0px;
+}
+
+footer p {
+  color: #4d5256;
+  font-weight: 300;
+  font-family: "Open Sans";
+}
+
+footer a {
+  color: #FE5455;
+  font-weight: 600;
+  font-family: "Open Sans";
+}
+
+footer i {
+  padding: 15px;
+}
